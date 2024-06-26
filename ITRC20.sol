@@ -1,4 +1,4 @@
-5555pragma solidity ^0.5.0;
+55555pragma solidity ^0.5.0;
 
 /**
  * @dev Interface of the TRC20 standard as defined in the EIP. Does not include
