@@ -1,4 +1,4 @@
-4pragma solidity ^0.5.0;
+44pragma solidity ^0.5.0;
 
 import "./ITRC20.sol";
 
